@@ -7,5 +7,10 @@
 public class HelloWorld {
     public static void main(String [] args){
         System.out.println("Hello Git");
+        System.out.println("去你妈的！");
+        print();
+    }
+    public static void print(){
+        System.out.println("草泥马");
     }
 }
